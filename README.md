@@ -17,13 +17,16 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
+Developed by: VISHNU RATHAN B
+RegisterNumber:  24001855
 */
+
 ```
+![PROGRAM EXPT 11 ML](https://github.com/user-attachments/assets/4948706d-0664-40da-8297-d569e741af58)
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+![output](https://github.com/user-attachments/assets/63270bf1-05e0-4933-ac93-b10cc15feed1)
+
 
 
 ## Result:
